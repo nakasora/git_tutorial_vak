@@ -1,1 +1,2 @@
 cccbbbaaaadiff確認
+git commit amend
